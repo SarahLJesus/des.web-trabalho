@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  h1 {
+    color: rgb(190, 0, 95);
+    text-align: center; 
+  }
+  
+  p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+
+  a {
+    background-color: rgb(250, 210, 248);
+    font-size: 30px;
+}
+  ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+  table, th, td {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 1px solid rgb(190,0, 95);
+}
